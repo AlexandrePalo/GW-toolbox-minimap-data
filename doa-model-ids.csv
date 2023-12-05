@@ -1,0 +1,70 @@
+﻿Status,Area,Creature,Profession,Name,Model ID
+Ally,"Foundry, City",Forgottens,,"Captain Jerazh, Captain Sulahresh, Tekliss",5002
+Ally,Foundry,Forgottens,,"Captain Valkyss, General Yendzarsh, Silzesh",5221
+Foe,Foundry,Ghosts,Elementalist,The Fury,5149
+Foe,Foundry,Ghosts,Mesmer,Greater Dream Rider,5216
+Foe,Foundry,Ghosts,Mesmer,Greater Dream Rider,5217
+Foe,Foundry & City,Margonites,Dervish,Anur Ruk,5172
+Foe,Foundry & City,Margonites,Elementalist,Anur Su,5168
+Foe,Foundry & City,Margonites,Mesmer,Anur Kaya,5166
+Foe,Foundry & City,Margonites,Monk,Anur Ki,5169
+Foe,Foundry & City,Margonites,Necromancer,Anur Dabi,5167
+Foe,Foundry & City,Margonites,Parangon,Anur Rund,5173
+Foe,City,Margonites,Parangon,Lord Jadoth,5144
+Foe,Foundry & City,Margonites,Ranger,Anur Mank,5174
+Foe,Foundry & City,Margonites,Ranger,Anur Tuk,5171
+Foe,Foundry & City,Margonites,Warrior,Anur Vu,5170
+Ally,Veil,Order of Whispers,,Adept of Whispers,5694
+Ally,"Foundry, City, Veil & Gloom",Order of Whispers,,"Whispers Informant, Voice of Whispers",5218
+Ally,"Foundry, City, Veil & Gloom",Ritual spirits,,Edge of Extinction,2876
+Foe,Foundry & City,Ritual spirits,,Quickening Zephyr,2886
+Foe,Veil,Ritual spirits,,Spirit of Winnowing,2875
+Foe,Veil & Gloom,Shadow army,Elementalist,Chill of Darkness,5189
+Foe,Veil & Gloom,Shadow army,Mesmer,Thought of Darkness,5188
+Foe,Veil & Gloom,Shadow army,Monk,Scourge of Darkness,5190
+Foe,Veil & Gloom,Shadow army,Necromancer,Curse of Darkness,5193
+Foe,Veil & Gloom,Shadow army,Ranger,Wind of Darkness,5192
+Foe,Veil & Gloom,Shadow army,Warrior,Abyssal,5194
+Foe,Veil & Gloom,Shadow army,Warrior,Claw of Darkness,5191
+Foe,Veil,Stygians,Dervish,Golem,5177
+Foe,Veil,Stygians,Dervish,Stygian Lord,5163
+Foe,Veil,Stygians,Elementalist,Stygian Lord,5147
+Foe,Veil,Stygians,Mesmer,Stygian Lord,5146
+Foe,Veil,Stygians,Monk,Stygian Lord,5148
+Foe,Veil,Stygians,Necromancer,Hunger,5175
+Foe,Veil,Stygians,Necromancer,Stygian Lord,5145
+Foe,Veil,Stygians,Ranger,Fiend,5179
+Foe,Veil,Stygians,Ranger,Stygian Lord,5164
+Foe,Veil,Stygians,Warrior,Brute,5176
+Foe,Veil,Stygians,Warrior,Horror,5178
+Foe,Foundry,Titans,Assassin,Fury,5200
+Foe,Foundry,Titans,Dervish,Dementia,5197
+Foe,Foundry,Titans,Dervish,Dementia,5202
+Foe,Foundry,Titans,Dervish,The Black Beast of Arrgh,5150
+Foe,Foundry,Titans,Elementalist,Rage,5196
+Foe,Foundry,Titans,Elementalist,Rage,5201
+Foe,Foundry,Titans,Mesmer,Anguish,5198
+Foe,Foundry,Titans,Necromancer,Despair,5199
+Foe,Foundry,Titans,Necromancer,Despair,5203
+Foe,Foundry,Titans,Warrior,Misery,5195
+Foe,Veil,Tormentors,Dervish,Earth,5186
+Foe,Gloom,Tormentors,Dervish,Earth,5210
+Foe,Veil,Tormentors,Elementalist,Water,5182
+Foe,Gloom,Tormentors,Elementalist,Water,5206
+Foe,Veil,Tormentors,Mesmer,Mind,5180
+Foe,Gloom,Tormentors,Mesmer,Mind,5204
+Foe,Veil,Tormentors,Monk,Heart,5183
+Foe,Gloom,Tormentors,Monk,Heart,5207
+Foe,Veil,Tormentors,Necromancer,Soul,5181
+Foe,Gloom,Tormentors,Necromancer,Soul,5205
+Foe,Veil,Tormentors,Parangon,Sanity,5187
+Foe,Gloom,Tormentors,Parangon,Sanity,5212
+Foe,Veil,Tormentors,Ranger,Spirit,5185
+Foe,Gloom,Tormentors,Ranger,Spirit,5209
+Foe,Veil,Tormentors,Warrior,Flesh,5184
+Foe,Gloom,Tormentors,Warrior,Flesh,5208
+Foe,Veil,Tormentors,Warrior,Torment Claw,5213
+Foe,Veil,Tormentors,,Smothering Tendril,5214
+Foe,Foundry,Underworld army,Elementalist,Guardian of Komalie,5161
+Foe,Foundry,Underworld army,Elementalist,Tortureweb Dryder,5215
+Foe,Foundry,Underworld army,Mesmer,Guardian of Komalie,5162
