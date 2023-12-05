@@ -12,6 +12,10 @@ Furthermore, the [main Excel spreadsheet](<GW Toolbox DoA minimap data.xlsm>) pr
 - Excel (any version)
 - Enable active content from the file
 
+## Credits
+- DoA teach discord for miscellaneous markers
+- Scuz Mes for macros and centralisation
+
 ### Remark :
 
 Before copy pasting anything in your \*.ini files, be sure to keep any useful information you may already have there.
